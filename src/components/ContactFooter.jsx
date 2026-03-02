@@ -159,19 +159,19 @@ const ContactFooter = () => {
             {/* Socials */}
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.instagram.com/explore/locations/134157197246425/zuese-fitness-surathkal/"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-white/70 hover:text-accent hover:bg-white/10 transition-colors"
               >
                 <Instagram size={20} />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/zuesefitnesssurathkal/"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-white/70 hover:text-accent hover:bg-white/10 transition-colors"
               >
                 <Facebook size={20} />
               </a>
               <a
-                href="#"
+                href="https://www.youtube.com/@zuesefitnesssurathkal"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-white/70 hover:text-accent hover:bg-white/10 transition-colors"
               >
                 <Youtube size={20} />
