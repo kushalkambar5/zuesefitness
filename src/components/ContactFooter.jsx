@@ -90,7 +90,7 @@ const ContactFooter = () => {
           >
             {/* Embedded Google Map - Coordinates for Surathkal */}
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1m3!1d31102.164845580048!2d74.7865683111059!3d13.003185566367587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35211b768ac8f%3A0x6b1144ac2d5fac18!2sSurathkal%2C%20Mangaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1709403567889!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.769723636465!2d74.79838217481982!3d12.986575114550298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba351ecefe037ef%3A0x72fce59cba14747f!2sZuese%20Fitness%20-%20Surathkal!5e0!3m2!1sen!2sin!4v1772457207523!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{
