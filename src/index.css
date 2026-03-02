@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-base: #0f172a;
+  --color-secondary: #f5f1e8;
+  --color-accent: #a3ff12;
+  --color-text: #1e1e1e;
+
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+}
+
+@layer base {
+  body {
+    @apply bg-base text-secondary font-sans antialiased overflow-x-hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px rgba(163, 255, 18, 0.5);
+  }
+}
